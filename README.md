@@ -10,7 +10,7 @@ I am a recent graduate with a BA in History and I am currently learning data ana
 
 <img align="right" alt="GIF" src="https://github.com/Ritiksharma5689/About_me/blob/2cb282c39264671389a4141f1d2860bdcc2c785c/Data%20Analysis.jpg.png" />
   
-</br>
+
 
 📈 **My GitHub Stats:**
 
