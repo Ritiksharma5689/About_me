@@ -8,7 +8,7 @@ All about me
 ### Happy to see you here! &nbsp; 
 I am a recent graduate with a BA in History and I am currently learning data analysis skills like Power BI and SQL. I am interested in using data to find insights and solve problems. With my strong research and analytical background, I am excited to start a career as a data analyst and apply my skills to help organizations make better decisions based on data.
 
-<img align="right" alt="GIF" src="https://github.com/Ritiksharma5689/About_me/blob/2cb282c39264671389a4141f1d2860bdcc2c785c/Data%20Analysis.jpg.png" width="800" height="200" />
+<img align="right" alt="GIF" src="https://github.com/Ritiksharma5689/About_me/blob/2cb282c39264671389a4141f1d2860bdcc2c785c/Data%20Analysis.jpg.png" />
   
 </br>
 
